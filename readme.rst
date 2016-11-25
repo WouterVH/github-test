@@ -98,7 +98,7 @@ The decisions ``bots-cookiecutter`` makes should all be explained here.
 .. include:: contributors.rst
 
 .. include license.rst
-.. include:: license.rst
+.. include:: docs/license.rst
 
 
 Indices and tables
